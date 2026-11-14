@@ -96,7 +96,7 @@ async def help_command(update: Update, context: ContextTypes.DEFAULT_TYPE):
 
 def main():
     # استبدل YOUR_BOT_TOKEN بالتوكن الحقيقي الخاص بك من BotFather
-    TOKEN ="9129409995:AAGHqE73pkrvxpNGhIrW6qmePD_MzWI5i2I"
+    TOKEN ="129409995:AAGHqE73pkrvxpNGhIrW6qmePD_MzWI5i2I""
     application = ApplicationBuilder().token(TOKEN).build()
 
     # ربط الوظائف والأوامر
