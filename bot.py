@@ -60,7 +60,7 @@ async def protect_group(update: Update, context: ContextTypes.DEFAULT_TYPE):
 async def welcome_new_members(update: Update, context: ContextTypes.DEFAULT_TYPE):
     for member in update.message.new_chat_members:
         welcome_text = (
-            f"مرحباً بك يا {member.first_name} في مجموعتنا! 💜\n"
+            f"مرحباً بك يا {member.Al_Asmar Realm 🫅🏾 🫶🏾 ( عالم ـ الأسمر ) 🫶🏾} في مجموعتنا! 💜\n"
             f"أنا بوت **الأسمر** حارس المجموعة، سعداء بوجودك معنا.\n"
             f"يرجى الالتزام بالقوانين وعدم نشر الروابط حفاظاً على أمان الجميع."
         )
